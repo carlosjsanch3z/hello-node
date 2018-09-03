@@ -9,4 +9,4 @@ permissions:
 hooks:
   ApplicationStart:
     - location: startApp.sh
-    timeout: 12
+    timeout: 10
